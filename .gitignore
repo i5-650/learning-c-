@@ -1,0 +1,8 @@
+*.cache
+*.dll
+*.info
+*.target
+**/.idea/**
+**/.vs/**
+**/obj/**
+**/bin/**
